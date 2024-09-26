@@ -17,7 +17,8 @@ Finally, these methods together form a comprehensive machine learning framework 
 
 We obtained differential expression matrices for mRNA, miRNA, lncRNA, and methylation data between high and low MPCDI subtypes using FDR<0.05 as the criterion. For each data type, we retained the 100 most relevant features as markers associated with HCC-specific cell death. Subsequently, an artificial neural network with stacked autoencoders was used to learn the feature structure and reduce the number of markers to 20 for each data type. Using a deep neural network, a predictor of cell death feature was constructed from 20 markers derived from each molecular layer. Ultimately, based on 80 specific cell death markers from four data types, we trained a deep neural network of cell death feature (DNNCDF) model.
 
-**Code information**
+**#Code information**
+
 “All_data” contains all the code data of this paper. The flowchart of this paper is shown below:
 
 <img src="https://github.com/wanglongxing2020/ML_code/blob/main/all_process.jpg">

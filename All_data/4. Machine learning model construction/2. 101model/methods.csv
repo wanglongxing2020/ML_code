@@ -1,0 +1,102 @@
+Model
+Lasso + StepCox [both]
+survival-SVM
+CoxBoost + survival-SVM
+Ridge
+Lasso + survival-SVM
+SuperPC
+CoxBoost + Ridge
+Enet [alpha=0.1]
+CoxBoost + Enet [alpha=0.1]
+Enet [alpha=0.2]
+Enet [alpha=0.3]
+CoxBoost + Enet [alpha=0.3]
+CoxBoost + Enet [alpha=0.2]
+Enet [alpha=0.4]
+CoxBoost + Enet [alpha=0.4]
+Lasso + CoxBoost
+Enet [alpha=0.5]
+CoxBoost
+CoxBoost + Enet [alpha=0.5]
+Enet [alpha=0.6]
+CoxBoost + Enet [alpha=0.6]
+CoxBoost + Enet [alpha=0.7]
+CoxBoost + Enet [alpha=0.8]
+Enet [alpha=0.8]
+Enet [alpha=0.9]
+Lasso
+Enet [alpha=0.7]
+CoxBoost + Enet [alpha=0.9]
+CoxBoost + Lasso
+Lasso + plsRcox
+CoxBoost + plsRcox
+CoxBoost + StepCox [forward]
+Lasso + StepCox [forward]
+RSF + survival-SVM
+CoxBoost + SuperPC
+StepCox [forward]
+plsRcox
+RSF + Ridge
+RSF + Enet [alpha=0.1]
+Lasso + SuperPC
+RSF + plsRcox
+RSF + StepCox [forward]
+RSF + Enet [alpha=0.2]
+RSF + Enet [alpha=0.3]
+RSF + Enet [alpha=0.6]
+RSF + Lasso
+RSF + Enet [alpha=0.7]
+RSF + Enet [alpha=0.5]
+RSF + CoxBoost
+RSF + Enet [alpha=0.9]
+RSF + Enet [alpha=0.4]
+RSF + Enet [alpha=0.8]
+RSF + StepCox [both]
+RSF + StepCox [backward]
+StepCox [both] + Ridge
+StepCox [backward] + Ridge
+StepCox [both] + plsRcox
+StepCox [backward] + plsRcox
+StepCox [both] + Enet [alpha=0.9]
+StepCox [backward] + Enet [alpha=0.9]
+StepCox [both] + Enet [alpha=0.1]
+StepCox [backward] + Enet [alpha=0.1]
+StepCox [both] + Enet [alpha=0.8]
+StepCox [backward] + Enet [alpha=0.8]
+StepCox [both] + Enet [alpha=0.2]
+StepCox [backward] + Enet [alpha=0.2]
+StepCox [both] + Lasso
+StepCox [backward] + Lasso
+StepCox [both] + Enet [alpha=0.6]
+StepCox [backward] + Enet [alpha=0.6]
+CoxBoost + GBM
+StepCox [both] + Enet [alpha=0.7]
+StepCox [backward] + Enet [alpha=0.7]
+Lasso + StepCox [backward]
+StepCox [both]
+StepCox [backward]
+CoxBoost + StepCox [both]
+CoxBoost + StepCox [backward]
+StepCox [both] + Enet [alpha=0.4]
+StepCox [backward] + Enet [alpha=0.4]
+StepCox [both] + Enet [alpha=0.3]
+StepCox [backward] + Enet [alpha=0.3]
+StepCox [both] + CoxBoost
+StepCox [backward] + CoxBoost
+StepCox [both] + Enet [alpha=0.5]
+StepCox [backward] + Enet [alpha=0.5]
+CoxBoost + RSF
+RSF + SuperPC
+RSF
+Lasso + GBM
+RSF + GBM
+GBM
+StepCox [both] + survival-SVM
+StepCox [backward] + survival-SVM
+Lasso + RSF
+StepCox [both] + GBM
+StepCox [backward] + GBM
+StepCox [both] + RSF
+StepCox [backward] + RSF
+StepCox [both] + SuperPC
+StepCox [backward] + SuperPC

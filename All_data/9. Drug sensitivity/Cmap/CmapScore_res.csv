@@ -1,0 +1,12 @@
+Database,Drug,Cmap_score,Change
+CTRP,Clofarabine,2.18,up
+CTRP,CD-437,0.88,up
+CTRP,Fluvastatin,-2.01,down
+CTRP,BMS-536924,-60.58,down
+CTRP,BRD-K70511574,-3.49,down
+GDSC,Dasatinib,-76.17,down
+GDSC,Staurosporine,-87.19,down
+PRSIM,CD-437,0.88,up
+PRSIM,NSC 652287,34.11,up
+PRSIM,Nocodazole,75.79,up
+PRSIM,Amsacrine,0.67,up

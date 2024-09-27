@@ -163,7 +163,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import roc_auc_score, roc_curve, auc
 import matplotlib.pyplot as plt
 import numpy as np
-# 生成模拟基因表达矩阵和标签
 gene_expression_matrix = encoded_features
 lnc_expression_matrix = encoded_lnc
 meth_expression_matrix = encoded_meth

@@ -1,0 +1,10 @@
+cell_type,AUC_mean,group
+B cell,0.08698916052554978,Low
+Endothelial cell,0.09581726956817567,High
+Hepatocyte,0.1406789877528073,High
+Macrophage,0.09349705302273709,High
+Mast cell,0.08736771641334211,Low
+Myeloid dendritic cell,0.10741520040369446,High
+NK cell,0.08737412556788611,Low
+Plasma cell,0.10221417732732016,High
+T cell,0.08969141317259441,Low

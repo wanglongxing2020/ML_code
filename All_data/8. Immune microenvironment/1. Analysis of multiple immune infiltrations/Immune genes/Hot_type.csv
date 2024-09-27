@@ -1,0 +1,71 @@
+Gene,Type
+HLA-A****,Antigen present
+HLA-B****,Antigen present
+HLA-C**,Antigen present
+HLA-DPA1****,Antigen present
+HLA-DPB1****,Antigen present
+HLA-DQA1****,Antigen present
+HLA-DQB1****,Antigen present
+HLA-DQA2****,Antigen present
+HLA-DQB2****,Antigen present
+HLA-DRA****,Antigen present
+HLA-DRB1****,Antigen present
+MICA*,Antigen present
+MICB****,Antigen present
+ICAM1****,Cell adhesion
+ITGB2****,Cell adhesion
+SELP,Cell adhesion
+BTN3A1,Co-inhibitor
+BTN3A2*,Co-inhibitor
+CD274*,Co-inhibitor
+CD276****,Co-inhibitor
+PDCD1LG2*,Co-inhibitor
+SLAMF7****,Co-inhibitor
+VTCN1****,Co-inhibitor
+CD28***,Co-stimulator
+CD80****,Co-stimulator
+ICOSLG,Co-stimulator
+CCL5****,Ligand
+CD40LG**,Ligand
+CD70***,Ligand
+CX3CL1,Ligand
+CXCL10,Ligand
+CXCL9,Ligand
+IFNG**,Ligand
+IL10****,Ligand
+IL12A****,Ligand
+IL13,Ligand
+IL1A****,Ligand
+IL1B****,Ligand
+IL4***,Ligand
+TGFB1****,Ligand
+TNF****,Ligand
+TNFSF4*,Ligand
+TNFSF9****,Ligand
+VEGFA****,Ligand
+VEGFB****,Ligand
+ARG1,other
+ENTPD1****,other
+GZMA***,other
+HMGB1,other
+IDO1,other
+PRF1,other
+ADORA2A*,Receptor
+BTLA,Receptor
+CD27**,Receptor
+CD40,Receptor
+CTLA4****,Receptor
+EDNRB****,Receptor
+HAVCR2****,Receptor
+ICOS****,Receptor
+IL2RA****,Receptor
+KIR2DL1,Receptor
+KIR2DL3,Receptor
+LAG3**,Receptor
+PDCD1****,Receptor
+TIGIT***,Receptor
+TLR4,Receptor
+TNFRSF14****,Receptor
+TNFRSF18****,Receptor
+TNFRSF4****,Receptor
+TNFRSF9,Receptor

@@ -1,0 +1,43 @@
+Cell,Type
+StromalScore,ESTIMATE
+ImmuneScore****,ESTIMATE
+ESTIMATEScore****,ESTIMATE
+TumorPurity****,ESTIMATE
+B cells naive*,CIBERSORT
+B cells memory****,CIBERSORT
+Plasma cells*,CIBERSORT
+T cells CD8*,CIBERSORT
+T cells CD4 naive*,CIBERSORT
+T cells CD4 memory resting,CIBERSORT
+T cells CD4 memory activated,CIBERSORT
+T cells follicular helper**,CIBERSORT
+T cells regulatory (Tregs)***,CIBERSORT
+T cells gamma delta,CIBERSORT
+NK cells resting,CIBERSORT
+NK cells activated,CIBERSORT
+Monocytes***,CIBERSORT
+Macrophages M0****,CIBERSORT
+Macrophages M1,CIBERSORT
+Macrophages M2,CIBERSORT
+Dendritic cells resting****,CIBERSORT
+Dendritic cells activated,CIBERSORT
+Mast cells resting****,CIBERSORT
+Mast cells activated***,CIBERSORT
+Eosinophils,CIBERSORT
+Neutrophils*,CIBERSORT
+T cells****,MCPcounter
+CD8 T cells*,MCPcounter
+Cytotoxic lymphocytes,MCPcounter
+B lineage**,MCPcounter
+NK cells,MCPcounter
+Monocytic lineage****,MCPcounter
+Myeloid dendritic cells****,MCPcounter
+Neutrophils**,MCPcounter
+Endothelial cells*,MCPcounter
+Fibroblasts***,MCPcounter
+B_cell_TIMER****,TIMER
+T_cell_CD4_TIMER****,TIMER
+T_cell_CD8_TIMER,TIMER
+Neutrophil_TIMER****,TIMER
+Macrophage_TIMER****,TIMER
+DC_TIMER****,TIMER

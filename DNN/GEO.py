@@ -157,7 +157,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import roc_auc_score, roc_curve, auc
 import matplotlib.pyplot as plt
 import numpy as np
-#省去改名，alltrain=GSE29013;alltest=GSE37745;allentire=GSE50081
+#省去改名，alltrain=GSE14520;alltest=GSE116174;allentire=ICGC
 alltrain = encoded_features
 train_pd = pd.read_csv('GSE14520_pd.csv')
 train_pd = train_pd['RS']

@@ -1,0 +1,4 @@
+"","Chromosome","Start_Position","End_Position","Variant_Classification","Variant_Type","Hugo_Symbol"
+"1","chr22",35386905,35386905,"Missense_Mutation","SNP","HMOX1"
+"2","chr6",111661748,111661748,"Missense_Mutation","SNP","FYN"
+"3","chr6",111674599,111674599,"Frame_Shift_Del","DEL","FYN"
